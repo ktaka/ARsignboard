@@ -1,2 +1,2 @@
 # ARsignboard
-SceneformのViewRenderableの解説用
+ARCoreとSceneformのViewRenderableを使って、任意の文字列を表示する板をAR空間に出すAndroidアプリのAndroid Studioプロジェクトです。
